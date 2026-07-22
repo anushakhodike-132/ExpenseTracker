@@ -57,9 +57,7 @@ git clone https://github.com/anushakhodike-132/ExpenseTracker.git
 
 6. Run the project on Tomcat.
 
-## Screenshots
 
-Add screenshots of the application here.
 
 ## Future Enhancements
 
